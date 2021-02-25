@@ -1,0 +1,7 @@
+numpy==1.19.4
+joblib==1.0.0
+pandas==1.1.5
+streamlit==0.73.1
+Pillow==8.1.0
+scikit-learn==0.24.0
+category_encoders==2.2.2
